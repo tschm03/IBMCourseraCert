@@ -1,2 +1,5 @@
 # IBMCourseraCert
-Created for IBM Coursera training course
+
+## Editing the file
+
+A markdown file in this directory
